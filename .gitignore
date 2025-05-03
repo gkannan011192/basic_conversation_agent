@@ -1,0 +1,9 @@
+./ava-agent/*
+pyproject.toml
+poetry.lock
+.env
+*__pycache__*
+*.chainlit*
+*.files*
+*egg-info*
+*data*
